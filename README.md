@@ -1,6 +1,6 @@
-<h1 align="center">Bem-vindo💾</h1>
-<h4 align="center">18y - ui/ux</h4>
-
+<h1 align="center">🖖 Bem-vindo!</h1>
+<h4 align="center">18y | UI/UX designer & video editor 🎥</h4>
+<h4 align="center">💾</h4>
 <div align="center">
 <a href="https://zyo.se/yuk">zyo.se/yuk</a>
 </div>
