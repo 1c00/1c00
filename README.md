@@ -1,4 +1,4 @@
-<h1 align="center">🖖Bem-vindo!</h1>
+<h1 align="center">🖖hello!</h1>
 <h4 align="center">19y | 🎥video editor & ui/ux designer.</h4>
 <h4 align="center">───〃★</h4>
 <div align="center">
