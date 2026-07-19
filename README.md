@@ -1,5 +1,5 @@
 <h1 align="center">🖖hello!</h1>
-<h4 align="center">19y︳video editor & ui/ux designer. 𓂃🖊</h4>
+<h4 align="center">19y ︳ video editor & ui/ux designer. 𓂃🖊</h4>
 <h5 align="center">─── ★</h5>
 <div align="center">
 <a href="https://zyo.se/yuk">zyo.se/yuk</a>
