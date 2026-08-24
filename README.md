@@ -1,8 +1,9 @@
 <h1 align="center">🖖hello!</h1>
 <h4 align="center">19y ▸ video editor & ui/ux designer. 𓂃🖊</h4>
-<h5 align="center">⯨ ── ⯩</h5>
+
 <div align="center">
 <a href="https://zyo.se/yuk">zyo.se/yuk</a>
+  <h5 align="center">⯨ ── ⯩</h5>
   <h6 align="center"></h6>
 </div>
 
@@ -15,9 +16,12 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ub07l4xgarqg9fp0mmu31d09k">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ub07l4xgarqg9fp0mmu31d09k&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ub07l4xgarqg9fp0mmu31d09k&theme=radical&width=420&footer=wave" alt="Spotify recently played"/>
   </a>
 </div>
+
+###
+
 <h5 align="center">⸝⸝💤</h5>
 <div align="center">
   <img height="150" src="https://bogleech.com/pokemon/allpokes/jirachieye.gif"  />
